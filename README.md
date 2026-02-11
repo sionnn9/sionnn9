@@ -4,7 +4,7 @@
 
 <p align="center">
 🚀 Web Developer | MERN Stack | Backend Enthusiast <br/>
-🎓 BCA Graduate | Project Builder | Hackathon Participant
+🎓 BCA Graduate | Project Builder | Hackathon Participant and Winner
 </p>
 
 I’m a passionate **MERN Stack Developer** who enjoys building meaningful and scalable web applications. I love working on real-world projects, collaborating with others, and continuously improving my technical skills. I’m particularly interested in **backend development and system design**, and I’m always eager to learn how things work under the hood.
